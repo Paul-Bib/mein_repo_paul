@@ -1,4 +1,5 @@
 #Dies ist ein Kommentar daher der Hashtag
+#20250407
 echo "Hallo Welt"
 
 for FILE in *txt
